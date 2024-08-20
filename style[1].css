@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #432323;
+}
+div{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 30px;
+}
+.imagen img{
+  height: 300px;
+}
+.titulo h1{
+  color: #e5dcdc;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Chiller";
+}
+.enlace p{
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Forte';
+}
+.subtitulo p{
+  color: #e5dcdc;
+  font-size: 40px;
+  text-align: left;
+  font-family: 'Forte';
+}
+.descripcion p{
+  color: #e5dcdc;
+  font-size: 20px;
+  font-family: 'Arial';
+}
+.descripcion img{
+  height: 300px;
+}
